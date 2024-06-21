@@ -1,0 +1,108 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-21T10:53:44.773Z",
+    "end": "2024-06-21T10:53:44.786Z",
+    "duration": 13
+  },
+  "tests": [
+    {
+      "title": "corrects the 'body' background declaration",
+      "fullTitle": "css/style.css corrects the 'body' background declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the 'h1' font-size declaration",
+      "fullTitle": "css/style.css corrects the 'h1' font-size declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the 'h2' font-weight declaration",
+      "fullTitle": "css/style.css corrects the 'h2' font-weight declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the '.completed' font-size declaration",
+      "fullTitle": "css/style.css corrects the '.completed' font-size declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the '#tasks .completed' background declaration",
+      "fullTitle": "css/style.css corrects the '#tasks .completed' background declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "corrects the 'body' background declaration",
+      "fullTitle": "css/style.css corrects the 'body' background declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the 'h1' font-size declaration",
+      "fullTitle": "css/style.css corrects the 'h1' font-size declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the 'h2' font-weight declaration",
+      "fullTitle": "css/style.css corrects the 'h2' font-weight declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the '.completed' font-size declaration",
+      "fullTitle": "css/style.css corrects the '.completed' font-size declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "corrects the '#tasks .completed' background declaration",
+      "fullTitle": "css/style.css corrects the '#tasks .completed' background declaration",
+      "file": "C:\\Users\\mafab\\OneDrive\\Desktop\\Innovations - Developments\\Website Development Projects - School Projects\\phase-0-issue-bot-9000\\test\\indexTest.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}

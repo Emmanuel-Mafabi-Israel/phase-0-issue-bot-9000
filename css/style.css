@@ -1,0 +1,58 @@
+/*
+    GLORY BE TO GOD,
+    ISSUE BOT 9000, CSS PROJECT
+    By Israel Mafabi Emmanuel
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body {
+    background: pink;
+
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    color: blue;
+    font-size: 3em;
+}
+
+h2 {
+    color: green;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.completed {
+    font-size: 12px;
+}
+
+#tasks .completed {
+    background: #ccc;
+    font-size: 12px;
+}
+
+.image-container {
+    border-radius: 15px;
+    overflow: hidden;
+
+    display: inline-block;
+    margin: 10px;
+
+    width: 100px;
+    height: 100px;
+}
+
+.image-container img {
+    display: block;
+
+    width: 100%;
+    height: auto;
+}
